@@ -1,4 +1,4 @@
-package doc2pdf;
+package org.doc2pdf;
 
 import java.io.File;
 
