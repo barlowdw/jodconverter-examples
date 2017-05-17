@@ -1,0 +1,25 @@
+#built files
+bin
+target
+classes
+
+#Eclipse project and built files
+*.project
+*.settings
+*.classpath
+*.eml
+*.userlibraries
+*.springBeans
+.build/
+.settings/
+
+#Idea files
+.idea
+.idea/*
+*.iml
+
+#Mac nonsense
+.DS_Store
+
+#Data
+data/*
